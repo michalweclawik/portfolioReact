@@ -30,3 +30,18 @@
   text-decoration: none;
   margin-right: 15px;
 }
+@media screen and (max-width: 900px) {
+  .navbar {
+    width: 90%;
+    padding: 20px 0;
+  }
+
+  .navbar a {
+    color: #333;
+    text-decoration: none;
+    margin-right: 15px;
+    display: grid;
+    gap: 5px;
+    margin-top: 5px;
+  }
+}

@@ -5,3 +5,30 @@
   max-width: 1200px;
   margin: 40px auto;
 }
+
+@media screen and (max-width: 1200px) {
+  .projectList {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 10px;
+
+    margin: 0 auto;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .projectList {
+    display: grid;
+    margin: 10px auto;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 10px;
+    align-items: center;
+    justify-content: center;
+  }
+}
+@media screen and (max-width: 500px) {
+  .projectList {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}

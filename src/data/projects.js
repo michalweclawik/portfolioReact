@@ -25,4 +25,43 @@ export const projects = [
     linkToGit: "https://github.com/michalweclawik/FullStackProject",
     category: ["js", "html", "react", "java", "mySql", "sass"],
   },
+  {
+    id: 3,
+    title: "Punky API",
+    imageURL:
+      "https://github.com/michalweclawik/punky-API/raw/master/src/images/screenshot1.png",
+    shortDescription:
+      "React application created with the Brewdog Beer Api. Find the perfect beer for you by browsing the beer collection.",
+    description:
+      "This project been made during week 6 of software course with _nology. Main goal of this application was to implement knowledge about React framework into practice. This web based application allowed you to search over Brewdog Punk API for your favourite beer.",
+    linkToApp: "https://michalweclawik.github.io/punky-API/",
+    linkToGit: "https://github.com/michalweclawik/punky-API",
+    category: ["js", "html", "react", "sass"],
+  },
+  {
+    id: 4,
+    title: "Weather app",
+    imageURL:
+      "https://github.com/michalweclawik/weatherApp/raw/master/src/img/weather.PNG",
+    shortDescription:
+      "ReactJS-built weather application which uses WeatherApi to render weather. This web based application allowed you to check weather in your location.",
+    description:
+      "ReactJS-built weather application which uses WeatherApi to render weather.",
+    linkToApp: "michalweclawik.github.io/weatherApp/",
+    linkToGit: "https://github.com/michalweclawik/weatherApp",
+    category: ["js", "html", "react", "sass", "react"],
+  },
+  {
+    id: 5,
+    title: "Pokemon API ",
+    imageURL:
+      "https://user-images.githubusercontent.com/51906345/154310989-0856ddfc-2025-47a6-8e37-6219e8ab439e.png",
+    shortDescription:
+      "Using the array of pokémon and your knowledge of DOM manipulation in JavaScript, displaying information about 151 pokémon on your site",
+    description:
+      "sing the array of pokémon and your knowledge of DOM manipulation in JavaScript, displaying information about 151 pokémon on your site",
+    linkToApp: "https://github.com/michalweclawik/pokemon",
+    linkToGit: "https://github.com/michalweclawik/pokemon",
+    category: ["js", "html", "react", "sass", "react"],
+  },
 ];

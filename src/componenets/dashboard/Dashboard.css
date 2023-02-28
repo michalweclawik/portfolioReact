@@ -1,0 +1,27 @@
+.dasboard {
+  width: 80%;
+  margin: 10% auto;
+}
+.links {
+  width: 400px;
+  display: flex;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+.links a {
+  text-decoration: none;
+  color: black;
+  transition: 0.4s ease;
+  height: 20px;
+  padding: 8px;
+  width: 120px;
+  text-align: center;
+  line-height: 100%;
+  border-radius: 15px;
+  border: 3px solid black;
+  margin-right: 10px;
+}
+.links a:hover {
+  background-color: black;
+  color: white;
+}

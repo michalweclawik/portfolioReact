@@ -9,14 +9,14 @@ export default function Navbar() {
           <span>MW portfolio</span>
         </li>
         <li>
-          <Link to="/" className="btn">
+          <Link to="/portfolioReact " className="btn">
             About me
           </Link>
 
-          <Link to="/projects" className="btn">
+          <Link to="/portfolioReact/projects" className="btn">
             My projects
           </Link>
-          <a to="/projects" className="btn">
+          <a to="portfolioReact/projects" className="btn">
             Contact me
           </a>
         </li>

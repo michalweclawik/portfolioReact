@@ -10,7 +10,7 @@ const ProjectCard = ({ project }) => {
         <h3>{project.title}</h3>
         <p>{project.shortDescription}</p>
       </div>
-      <Link to={`/projects/${project.id}`}>More info...</Link>
+      <Link to={`/portfolioReact/projects/${project.id}`}>More info...</Link>
     </div>
   );
 };

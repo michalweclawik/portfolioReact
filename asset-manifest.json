@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/portfolioReact/static/css/main.8a70d93e.css",
+    "main.js": "/portfolioReact/static/js/main.9ca0cb4f.js",
+    "static/media/me.jpg": "/portfolioReact/static/media/me.31b28036bedb4c85bff2.jpg",
+    "static/media/CV-Michal-Weclawik.pdf": "/portfolioReact/static/media/CV-Michal-Weclawik.6f5ed83812ad9bcea929.pdf",
+    "index.html": "/portfolioReact/index.html",
+    "main.8a70d93e.css.map": "/portfolioReact/static/css/main.8a70d93e.css.map",
+    "main.9ca0cb4f.js.map": "/portfolioReact/static/js/main.9ca0cb4f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a70d93e.css",
+    "static/js/main.9ca0cb4f.js"
+  ]
+}

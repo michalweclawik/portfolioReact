@@ -6,7 +6,7 @@ export default function Navbar() {
       <ul>
         <li className="logo">
           {/* <img src={} alt="avatar" /> */}
-          <span>MW portofio</span>
+          <span>MW portfolio</span>
         </li>
         <li>
           <Link to="/" className="btn">

@@ -64,4 +64,16 @@ export const projects = [
     linkToGit: "https://github.com/michalweclawik/pokemon",
     category: ["js", "html", "react", "sass", "react"],
   },
+  {
+    id: 6,
+    title: "Hangman TX",
+    imageURL:
+      "https://github.com/michalweclawik/HangmanTX/blob/main/src/assets/hangman.PNG?raw=true",
+    shortDescription:
+      "Browser hangman game created with Vite. The game where you have to guess all the letters of a word.",
+    description: "A Hangman game built with React and Typescript",
+    linkToApp: "https://michalweclawik.github.io/HangmanTX/",
+    linkToGit: "https://github.com/michalweclawik/HangmanTX",
+    category: ["js", "html", "react", "sass", "typescript"],
+  },
 ];

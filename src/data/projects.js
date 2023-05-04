@@ -10,7 +10,7 @@ export const projects = [
       "Whack a Mole is fully web based game. Once you whack the mole, you get the points and mole losses glasses. Be fast time is limited !",
     linkToApp: "https://github.com/michalweclawik/FullStackProject",
     linkToGit: "https://github.com/michalweclawik/FullStackProject",
-    category: ["js", "html", "sass"],
+    category: ["js", "html", "sass", "TDD", "GIT"],
   },
   {
     id: 2,
@@ -23,7 +23,7 @@ export const projects = [
       "The aim of this project was to make full stack aplication based on knowledge gained throught course with _nology.All car data is fetch from API and with REACT slider carousel being display in home page. Once user click on car`s card this will fetch the desired data from API and display a window with more information about car.User Can also add a new Car do the data base or update already existing one.Aplication is fully resposive.",
     linkToApp: "https://github.com/michalweclawik/FullStackProject",
     linkToGit: "https://github.com/michalweclawik/FullStackProject",
-    category: ["js", "html", "react", "java", "mySql", "sass"],
+    category: ["js", "html", "react", "java", "mySql", "sass", "spring", "GIT"],
   },
   {
     id: 3,
@@ -36,7 +36,7 @@ export const projects = [
       "This project been made during week 6 of software course with _nology. Main goal of this application was to implement knowledge about React framework into practice. This web based application allowed you to search over Brewdog Punk API for your favourite beer.",
     linkToApp: "https://michalweclawik.github.io/punky-API/",
     linkToGit: "https://github.com/michalweclawik/punky-API",
-    category: ["js", "html", "react", "sass"],
+    category: ["js", "html", "react", "sass", "GIT"],
   },
   {
     id: 4,
@@ -49,7 +49,7 @@ export const projects = [
       "ReactJS-built weather application which uses WeatherApi to render weather.",
     linkToApp: "michalweclawik.github.io/weatherApp/",
     linkToGit: "https://github.com/michalweclawik/weatherApp",
-    category: ["js", "html", "react", "sass", "react"],
+    category: ["js", "html", "react", "sass", "react", "GIT"],
   },
   {
     id: 5,
@@ -62,7 +62,7 @@ export const projects = [
       "sing the array of pokémon and your knowledge of DOM manipulation in JavaScript, displaying information about 151 pokémon on your site",
     linkToApp: "https://github.com/michalweclawik/pokemon",
     linkToGit: "https://github.com/michalweclawik/pokemon",
-    category: ["js", "html", "react", "sass", "react"],
+    category: ["js", "html", "react", "sass", "react", "GIT"],
   },
   {
     id: 6,
@@ -74,7 +74,7 @@ export const projects = [
     description: "A Hangman game built with React and Typescript",
     linkToApp: "https://michalweclawik.github.io/HangmanTX/",
     linkToGit: "https://github.com/michalweclawik/HangmanTX",
-    category: ["js", "html", "react", "sass", "typescript"],
+    category: ["js", "html", "react", "sass", "typescript", "GIT"],
   },
   {
     id: 7,
@@ -88,6 +88,15 @@ export const projects = [
     linkToApp: "https://customer-management-syst-395e5.web.app/",
     linkToGit:
       "https://github.com/michalweclawik/customer-management-evergreen",
-    category: ["js", "html", "react", "firebase", "css", "googleMap", "API"],
+    category: [
+      "js",
+      "html",
+      "react",
+      "firebase",
+      "css",
+      "googleMap",
+      "API",
+      "GIT",
+    ],
   },
 ];

@@ -11,6 +11,12 @@ const ProjectCard = ({ project }) => {
         <p>{project.shortDescription}</p>
       </div>
       <Link to={`/portfolioReact/projects/${project.id}`}>More info...</Link>
+
+      <div className="tags">
+        {project.category.map((cat) => (
+          <tag key={cat.index}>{cat}</tag>
+        ))}
+      </div>
     </div>
   );
 };

@@ -76,4 +76,18 @@ export const projects = [
     linkToGit: "https://github.com/michalweclawik/HangmanTX",
     category: ["js", "html", "react", "sass", "typescript"],
   },
+  {
+    id: 7,
+    title: "Customer management system",
+    imageURL:
+      "https://raw.githubusercontent.com/michalweclawik/portfolioReact/main/src/asset/customermanagement.PNG",
+    shortDescription:
+      "Customer management system with authetication hosted on Firebase supported with Google Map",
+    description:
+      "Customer management system with authetication. You can create a account and start adding your customer, where google maps will show to you their locations",
+    linkToApp: "https://customer-management-syst-395e5.web.app/",
+    linkToGit:
+      "https://github.com/michalweclawik/customer-management-evergreen",
+    category: ["js", "html", "react", "firebase", "css", "googleMap", "API"],
+  },
 ];

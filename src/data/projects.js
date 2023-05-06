@@ -99,4 +99,17 @@ export const projects = [
       "GIT",
     ],
   },
+  {
+    id: 8,
+    title: "morse-code-translator",
+    imageURL:
+      "https://raw.githubusercontent.com/michalweclawik/morse-code-translator/master/images/morsecodetranslator.PNG",
+    shortDescription:
+      "Project compilted during software development course at _nology.",
+    description:
+      "Purpose of this project was to cement and put in to practice knowledge of Unit Testing with Jest ",
+    linkToApp: "https://michalweclawik.github.io/morse-code-translator/",
+    linkToGit: "https://github.com/michalweclawik/morse-code-translator",
+    category: ["js", "html", "SASS", "JEST", "css", ,],
+  },
 ];

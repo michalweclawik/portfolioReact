@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/portfolioReact/static/css/main.78038628.css",
-    "main.js": "/portfolioReact/static/js/main.3345a452.js",
+    "main.js": "/portfolioReact/static/js/main.faa63411.js",
     "static/media/CV-Michal-Weclawik.pdf": "/portfolioReact/static/media/CV-Michal-Weclawik.7bd5bd7dfc870d7bf7fe.pdf",
     "static/media/me.jpg": "/portfolioReact/static/media/me.31b28036bedb4c85bff2.jpg",
     "index.html": "/portfolioReact/index.html",
     "main.78038628.css.map": "/portfolioReact/static/css/main.78038628.css.map",
-    "main.3345a452.js.map": "/portfolioReact/static/js/main.3345a452.js.map"
+    "main.faa63411.js.map": "/portfolioReact/static/js/main.faa63411.js.map"
   },
   "entrypoints": [
     "static/css/main.78038628.css",
-    "static/js/main.3345a452.js"
+    "static/js/main.faa63411.js"
   ]
 }

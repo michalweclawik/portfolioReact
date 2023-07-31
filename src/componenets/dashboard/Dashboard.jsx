@@ -20,9 +20,9 @@ const Dashboard = () => {
         <a href="https://github.com/michalweclawik" target="__blank">
           Github
         </a>
-        <a href={#} download="Michal  CV">
+        {/* <a href={#} download="Michal  CV">
           Resume
-        </a>
+        </a> */}
       </div>
     </section>
   );

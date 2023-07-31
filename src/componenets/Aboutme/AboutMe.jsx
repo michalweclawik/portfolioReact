@@ -21,7 +21,7 @@ const AboutMe = () => {
             </p>
             <p>
               After bootcamp , I have decided to learn more about REACT,
-              TypeScript and Firebase and I took additional courses to
+              TypeScript and Firebase therefore I took additional courses to
               extinguish the burning desire to learn.
             </p>
             <h5>Why programming?</h5>
